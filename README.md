@@ -6,4 +6,6 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<ul>
+  <li>JavaScript</li>
+</ul>
