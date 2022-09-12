@@ -1,16 +1,9 @@
-# 🚧 README em construção 🚧
+<h1>Zoo Functions</h1>
 
-<!-- Olá, Tryber!
+<h2>Descrição sobre o projeto</h2>
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+<i>Zoo Functions</i> é um conjunto de funções para acessar as informações de um zoológico, como seus animais, suas regiões ou funcionários, desenvolvido para a prática de <b>HOFs (High Order Functions)</b> do <b>JavaScript</b>, assim como seus métodos para a <b>manipulação de arrays</b>, como por exemplo, <b>map</b> ou <b>filter</b>.
 
-É essencial que você preencha esse documento por conta própria, ok?
+<h2>Tecnologias utilizadas</h2>
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
